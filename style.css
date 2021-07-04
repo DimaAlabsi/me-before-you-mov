@@ -1,5 +1,9 @@
 p { color: gray}
-
+.bb {padding: 60px}
+.dd {padding: 50px;
+background-color:#FFDADA;
+  margin: 20px
+  border-style 0%}
 
 
 
@@ -13,4 +17,6 @@ h1{float: left;}
 div {display:Inline-block;}
 
 a{ text-decoration: NONE} 
+
+
 
